@@ -2,16 +2,16 @@ import type { SiteConfig } from '$lib/types/site'
 
 export const site: SiteConfig = {
   protocol: 'https://',
-  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'urara-demo.netlify.app',
-  title: 'Urara',
-  subtitle: 'Sweet & Powerful SvelteKit Blog Template',
+  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'blog.indonode.dev',
+  title: 'Indonode Blog',
+  subtitle: 'Indonode Blog',
   lang: 'en-US',
-  description: 'Powered by SvelteKit/Urara',
+  description: 'Powered by Indonode.dev',
   author: {
-    name: 'John Doe',
+    name: 'Indonode',
     avatar: '/assets/maskable@192.png',
     status: '🌸',
-    bio: 'lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    bio: 'Crypto & Blockchain Enthusiast'
   },
   themeColor: '#3D4451'
 }

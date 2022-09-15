@@ -1,10 +1,10 @@
 ---
-title: 'Hello World'
-image: '/hello-world/urara.webp'
+title: 'Indonode'
+image: ''
 created: 2021-11-01
 updated: 2021-12-12
 tags:
-  - 'Hello World'
+  - 'Indonode'
   - 'Urara'
 ---
 
@@ -41,4 +41,3 @@ u can preview the built app with `pnpm preview`.
 
 ## Documentation
 
-For full documentation, visit [urara-docs.netlify.app](https://urara-docs.netlify.app).
